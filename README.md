@@ -8,6 +8,7 @@ Please use this sketch at your own risk, preferably on cheap robots you don't mi
 
 ### Hardware
 Microcontroller: Wemos D1
+
 Nunchuk (duh)
 
 | Wemos | Nunchuk |
