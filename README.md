@@ -39,7 +39,8 @@ rosrun rosserial_python serial_node.py tcp
 The linear velocity is the roll angle, the angular velocity is the pitch angle.
 You can brake using the Z button.
 
-If you really want to use this thing for real you could change the roll and pitch to the X and Y of the analog stick.
+If you really want to use this thing for real you can change the mode to RELIABLE in the "Parameters.h" file, so the values are read from the joystick and not from the accelerometers. 
+
 You can also modify the min/max angular and linear velocity, just change the values in the "Parameters.h" file
 
 Have fun!
