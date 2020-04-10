@@ -23,7 +23,8 @@ Nunchuk (duh)
 For the ROS libraries follow the guide on [ROS wiki](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup)
 
 ## Setup
-Define your wifi ssid, wifi password and the IP of the ROS master in the "Parameters.h" file.
+Define your wifi ssid and wifi password in the "Parameters.h" file.
+Change the ROS Master address in the main file.
 
 ## Usage
 Launch ROS
