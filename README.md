@@ -11,6 +11,8 @@ Microcontroller: Wemos D1
 
 Nunchuk (duh)
 
+Pinout:
+
 | Wemos | Nunchuk |
 |-------|---------|
 | 3.3V  | +       |
